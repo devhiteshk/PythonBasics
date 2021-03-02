@@ -1,6 +1,7 @@
 # PythonBasics
 https://www.codewars.com/users/thexcaliber/badges/large
 
-<a href=https://www.codewars.com/users/thexcaliber/badges/large></a>
+My RANK IN CodeWars: -
+
 <img src=https://www.codewars.com/users/thexcaliber/badges/large>
 
